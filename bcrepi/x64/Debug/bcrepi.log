@@ -1,0 +1,3 @@
+﻿  joker.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  bcrepi.vcxproj -> D:\zousp\c\bcrepi\x64\Debug\bcrepi.exe
